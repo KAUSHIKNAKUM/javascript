@@ -2,5 +2,5 @@
 
 // alert(3+3) // we are using node js not browser 
 
-console(3+3) // code readability should be high
-console("kaushik")
+console.log(3+3) // code readability should be high
+console.log("kaushik")
